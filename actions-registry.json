@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "host": "action.xstation.xyz",
+      "state": "trusted"
+    },
+    {
+      "host": "xlinks-poc.vercel.app",
+      "state": "malicious"
+    }
+  ]
+}
