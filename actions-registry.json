@@ -1,6 +1,10 @@
 {
   "actions": [
     {
+      "host": "xlinks.site",
+      "state": "trusted"
+    },
+    {
       "host": "action.xstation.xyz",
       "state": "trusted"
     },
