@@ -5,6 +5,10 @@
       "state": "trusted"
     },
     {
+      "host": "www.xlinks.site",
+      "state": "trusted"
+    },
+    {
       "host": "action.xstation.xyz",
       "state": "trusted"
     },
@@ -21,6 +25,10 @@
     {
       "host": "xlinks.site",
       "state": "trusted"
+    },
+    {
+      "host": "www.xlinks.site",
+      "state": "trusted"
     }
   ],
   "actions": [
@@ -30,6 +38,10 @@
     },
     {
       "host": "xlinks.site",
+      "state": "trusted"
+    },
+    {
+      "host": "www.xlinks.site",
       "state": "trusted"
     },
     {
