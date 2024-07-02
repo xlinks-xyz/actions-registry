@@ -12,5 +12,29 @@
       "host": "xlinks-poc.vercel.app",
       "state": "malicious"
     }
+  ],
+  "interstitials": [
+    {
+      "host": "actions.xstation.xyz",
+      "state": "trusted"
+    },
+    {
+      "host": "xlinks.site",
+      "state": "trusted"
+    }
+  ],
+  "actions": [
+    {
+      "host": "action.xstation.xyz",
+      "state": "trusted"
+    },
+    {
+      "host": "xlinks.site",
+      "state": "trusted"
+    },
+    {
+      "host": "xlinks-poc.vercel.app",
+      "state": "malicious"
+    }
   ]
 }
