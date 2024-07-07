@@ -13,6 +13,10 @@
       "state": "trusted"
     },
     {
+      "host": "mint.fun",
+      "state": "trusted"
+    },
+    {
       "host": "xlinks-poc.vercel.app",
       "state": "malicious"
     }
@@ -29,7 +33,11 @@
     {
       "host": "www.xlinks.site",
       "state": "trusted"
-    }
+    },
+    {
+      "host": "mint.fun",
+      "state": "trusted"
+    },
   ],
   "actions": [
     {
@@ -42,6 +50,10 @@
     },
     {
       "host": "www.xlinks.site",
+      "state": "trusted"
+    },
+    {
+      "host": "mint.fun",
       "state": "trusted"
     },
     {
